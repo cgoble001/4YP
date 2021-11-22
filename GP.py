@@ -1,4 +1,5 @@
 # import all packages and set plots to be embedded inline
+# Used https://towardsdatascience.com/implement-a-gaussian-process-from-scratch-2a074a470bce
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import minimize
